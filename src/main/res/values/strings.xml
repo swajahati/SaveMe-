@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Save Me!</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string-array name="relationships">
+        <item>RelationShip</item>
+        <item>Father</item>
+        <item>Mother</item>
+        <item>Brother</item>
+        <item>Sister</item>
+        <item>Boyfriend</item>
+        <item>Girlfriend</item>
+        <item>Husband</item>
+        <item>Wife</item>
+        <item>friend</item>
+    </string-array>
+
+</resources>
